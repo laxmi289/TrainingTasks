@@ -1,0 +1,33 @@
+#one span {
+    color: red;
+}
+
+#two {
+    background-color: bisque;
+}
+
+#three {
+    border: 5px solid green;
+}
+
+#four {
+    border: 1rem solid green;
+}
+
+#five {
+    border: 38px solid green;
+}
+
+.four {
+    border: 2px solid red;
+    margin: 20px 15px;
+    padding: 10px 15px;
+    background-color: rgb(238, 213, 218);
+}
+
+.five {
+    border: 2px solid blue;
+    margin: 20px 30px;
+    padding: 10px 15px;
+    background-color: rgb(190, 245, 185);
+}
